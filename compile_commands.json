@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/marci/c_project",
+  "command": "/usr/bin/cc -I/home/marci/c_project/include -std=gnu11 -o CMakeFiles/ssh_client.dir/src/main.c.o -c /home/marci/c_project/src/main.c",
+  "file": "/home/marci/c_project/src/main.c",
+  "output": "CMakeFiles/ssh_client.dir/src/main.c.o"
+}
+]

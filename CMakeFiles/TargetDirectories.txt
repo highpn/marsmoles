@@ -1,0 +1,3 @@
+/home/marci/c_project/CMakeFiles/ssh_client.dir
+/home/marci/c_project/CMakeFiles/edit_cache.dir
+/home/marci/c_project/CMakeFiles/rebuild_cache.dir

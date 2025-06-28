@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/marci/c_project/build",
+  "command": "/usr/bin/arm-linux-gnueabihf-gcc -I/home/marci/c_project/include -g -std=gnu11 -o CMakeFiles/ssh_client.dir/src/main.c.o -c /home/marci/c_project/src/main.c",
+  "file": "/home/marci/c_project/src/main.c",
+  "output": "CMakeFiles/ssh_client.dir/src/main.c.o"
+}
+]

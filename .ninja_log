@@ -1,0 +1,5 @@
+# ninja log v5
+1	56	1750980396454692005	CMakeFiles/ssh_client.dir/src/main.c.o	6b71e2fa27e9ae57
+57	70	1750980396468692013	ssh_client	3f1a3ae4d1c316da
+1	54	1751139156019834247	CMakeFiles/ssh_client.dir/src/main.c.o	8697d8178fc4548a
+54	70	1751139156035834294	ssh_client	3f1a3ae4d1c316da
