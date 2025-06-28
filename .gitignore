@@ -5,4 +5,12 @@ CMakeFiles/
 CMakeCache.txt
 cmake_install.cmake
 Makefile
-.vscode
+*.o
+*.swp
+*.swo
+*~
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
