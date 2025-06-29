@@ -12,3 +12,8 @@ Makefile
 *~
 .idea/
 .vscode/
+.ninja_deps
+.ninja_log
+build.ninja
+cmake_install.cmake
+ssh_client

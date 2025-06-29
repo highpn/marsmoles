@@ -1,1 +1,0 @@
-/usr/bin/cc CMakeFiles/ssh_client.dir/src/main.c.o -o ssh_client 
